@@ -1,0 +1,27 @@
+{
+  "label": {
+    "de": "Bestit automatisierte Kunden Gruppen",
+    "en": "Bestit Customer Group Automation"
+  },
+  "copyright": "Copyright (c) best it GmbH & Co. KG",
+  "license": "proprietary",
+  "link": "http://www.bestit-online.de",
+  "author": "best it GmbH & Co. KG",
+  "supplier": "best it GmbH & Co. KG",
+  "support": "support@bestit-online.de",
+  "description": "<iframe src=\"http://cdn.bestit-online.de/plugin_description/\" width=\"630\" height=\"110\"></iframe>",
+  "currentVersion": "0.0.1",
+  "changelog": {
+    "de": {
+      "0.0.1": "Erstveröffentlichung"
+    },
+    "en": {
+      "0.0.1": "First release"
+    }
+  },
+  "compatibility": {
+    "minimumVersion": "5.2.0",
+    "maximumVersion": null,
+    "blacklist": []
+  }
+}
